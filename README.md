@@ -1,4 +1,4 @@
-# network-capy
+# network-capy API
 
 The capybara is the friendliest animal on the planet. 
 And they want to share they knowledge by sharing an opensource tool to retrieve network protocols,
